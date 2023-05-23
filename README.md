@@ -11,4 +11,4 @@
 ## 공모주제
 - AI 기계학습을 활용한 실내 거주자 재실 탐지
 ## 활용데이터
-https://github.com/SpaceSmartLab/BigDataCompetition
+https://github.com/SpaceSmartLab/BigDataContest
